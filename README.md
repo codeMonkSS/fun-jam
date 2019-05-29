@@ -1,4 +1,4 @@
-##Built with TypeScript
+## Built with TypeScript
 
 Fetches flight offers and displays to user with link to purchase reservation. 
 
