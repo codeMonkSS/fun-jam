@@ -1,4 +1,4 @@
-##Built with TypeScript
+## Built with TypeScript
 
 Fetches flight offers and displays to user with link to purchase reservation. 
 
@@ -30,6 +30,6 @@ npm run dist
 ```
 
 ### Dist: 
-The file saves an executable .js file in `dist/` that will serve with any static http server. Watch it running [here](http://sajalsinha.com/motest)
+The file saves an executable .js file in `dist/` that will serve with any static http server. Watch it running [here](http://sajalsinha.co/motest)
 
 
