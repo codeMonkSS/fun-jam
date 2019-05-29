@@ -1,0 +1,19 @@
+{
+  "name": "momondo-test",
+  "version": "1.0.0",
+  "description": "Fetches flight offers and displays to user with link to purchase reservation",
+  "main": "index.js",
+  "scripts": {
+    "dist": "browserify ./src/index.ts -p [ tsify --noImplicitAny ] > ./dist/index.js"
+  },
+  "author": "Sajal Sinha",
+  "license": "ISC",
+  "devDependencies": {
+    "@akanass/rx-http-request": "^3.1.0",
+    "browserify": "^16.2.3",
+    "rxjs": "^6.4.0",
+    "tsify": "^4.0.1",
+    "typescript": "3.3.1"
+  },
+  "dependencies": {}
+}
