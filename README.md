@@ -8,6 +8,8 @@ _The flight data card is sorted automatically in the price increasing order_
 
 ----
 
+### [Demo](http://sajalsinha.co/motest)
+
 ## Getting Started
 
 ### Dependencies
